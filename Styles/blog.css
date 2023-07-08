@@ -4,5 +4,8 @@ div{
     padding: 18px;
     border: 12px solid aquamarine;
     border-radius: 20px;
+    box-shadow: 20px 10px 30px blueviolet;
+    text-align: justify;
+    width: 50%;
 
 }
