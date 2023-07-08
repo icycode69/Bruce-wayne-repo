@@ -9,3 +9,8 @@ div{
     width: 50%;
 
 }
+#fatman{
+    border: 20px solid blueviolet;
+    border-radius: 30px;
+    box-shadow: 20px 20px 30px blue;
+}
